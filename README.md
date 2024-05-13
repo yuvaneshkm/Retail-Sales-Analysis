@@ -1,9 +1,14 @@
-# India's Best IT Training
+# Retail Sales Report
 
 ## Project steps:
-* Requirement Gathering
+
+### Requirement Gathering:
+* Gathering requirements involves understanding the objectives, scope, and constraints of the project. This typically involves creating
     * BRD (Business Requirement Document)
     * FRD (Functional Requirement Document)
+* Here, for this project both BRD and FRD are given in a single pdf file.
+
+
 * Data Collection (databases / csv / excel sheet)
 * Data Cleaning and Preprocessing
 * Data Modelling
