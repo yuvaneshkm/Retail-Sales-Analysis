@@ -25,7 +25,7 @@
 ![Data Modeling](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Data%20Modeling.png)
 
 
-## UI Report
+## UI Report:
 * Once the data cleaning and data modeling is over, then we can start creating our report in the Power BI desktop. The report is created based on the requirements given by the client.
 * We can use various charts and graphs that are available in the Power BI desktop.
 * Even we can use some custom charts in the Power BI Desktop for building our report.
@@ -33,8 +33,18 @@
 ![Using Custom Charts](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Custom%20Visuals.png)
 
 
-* Additional Information (DAX Calculation) DAX--->Data Analysis Expression
-* RLS (Role Level Security)
+## Additional Information (DAX Calculation) DAX--->Data Analysis Expression:
+* While building the report you may need some measures(additional informations need to be calculated). These measures can be calculated by DAX in Power BI.
+* Here I created Quater on Quater (QoQ) and Month on Month (MoM) total revenue change by using DAX (Data  Analysis Expression).
+![Measures](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Measures.png)
+
+
+## RLS (Role Level Security):
+* After building the report, you need to implement RLS (Role Level Security) within the Power BI Desktop. This RLS will give specific access to specific users.
+* That is, if you need to restrict particular user from seeing the particular countries sales, you can restrict them by using RLS.
+![RLS](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Role%20Level%20Security.png)
+
+
 * Create Workspace (Provide workspace access within the team)
 * Publish
 * Dashboard
