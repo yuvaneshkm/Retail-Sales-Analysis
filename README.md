@@ -14,7 +14,8 @@
 ## Data Cleaning and Preprocessing:
 * Data that comes from different sources is not in the proper format. So, we need to clean the data, as well as if needed we can add new columns to the existing table or we can create new table.
 * The Data Cleaning is done with the help of DAX (Data Analysis Expression) in Power BI.
-![](Data Modeling.png)
+![Creating New Columns](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Creating%20new%20columns.png)
+![Creating New Table for Datemaster](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Creating%20new%20table.png)
 
 ## Data Modelling:
 
