@@ -45,9 +45,25 @@
 ![RLS](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Role%20Level%20Security.png)
 
 
-* Create Workspace (Provide workspace access within the team)
-* Publish
-* Dashboard
+## Create New Workspace:
+* After completing the report, you need to share the report with your team mates. So, that we need to create a new workspace in Microsoft Fabric previously Power BI Service.
+![New Workspace](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Creating%20new%20workspace.png)
+
+
+## Publish:
+* After creating the new workspace we now need to publish our end report to the workspace to share with the team mates.
+![Final Report](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Final%20Report.png)
+
+
+## Workspace Access:
+* After Publishing the report to the workspace, we need to provide workspace access within the team.
+![Workspace Access](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Access%20to%20the%20workspace.png)
+* You can also implement Role Level Security(RLS) within the team.
+![RLS](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Implementing%20Role%20Level%20Security.png)
+
+## Dashboard:
+* You can create a dashboard by pinning important visuals from various reports and organize it in a single dashboard.
+
 
 * Share the Report
 * Create App and Share
