@@ -1,4 +1,6 @@
 # Retail Sales Report
+# Project Overview
+This project is an end-to-end data analytics solution for a retail business, aimed at uncovering insights into sales performance, customer behavior, and product trends. Using Power BI as the primary visualization tool, the project integrates data from multiple sources, including MySQL databases, CSV files, and shared folders, to deliver a comprehensive sales analysis. Key metrics and visualizations include sales trends, regional performance, product profitability, and customer segmentation, empowering stakeholders with data-driven insights for strategic decision-making.
 
 # Project steps:
 
@@ -69,3 +71,16 @@
 ## Create App and Share:
 * After implementing all the steps above, now we can create the End App in Microsoft Fabric and we can share within the group. Also we can manage access of the Final App.
 ![Final App](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Final%20App.png)
+
+# Technologies & Skills
+- Data Sources: MySQL, CSV, flat files
+- Data Cleaning & Transformation: Power Query, DAX
+- Visualization & Reporting: Power BI
+- Deployment: Microsoft Fabric (Power BI Service)
+- Data Automation: Power BI Data Gateway for scheduled updates
+
+# Impact
+This analysis provided actionable insights that helped the business optimize inventory, improve customer targeting, and drive overall sales growth. The automation of data updates saved time and enhanced decision-making by providing near real-time insights.
+
+# Key Takeaways
+This project highlights my abilities in data wrangling, data visualization, and dashboard automation. I demonstrated proficiency in integrating multiple data sources, performing robust data transformations, and creating user-friendly dashboards to enable strategic insights, making this a valuable tool for any retail-oriented data analyst role.
