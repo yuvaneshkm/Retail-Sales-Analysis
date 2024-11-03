@@ -69,7 +69,3 @@
 ## Create App and Share:
 * After implementing all the steps above, now we can create the End App in Microsoft Fabric and we can share within the group. Also we can manage access of the Final App.
 ![Final App](https://github.com/yuvaneshkm/Retail-Sales-Analysis/blob/main/screenshorts/Final%20App.png)
-
-
-## Link of the Final Retail Sales App:
-https://app.powerbi.com/Redirect?action=OpenReport&appId=3e0b7478-3787-42e6-9c10-340266c349b4&reportObjectId=1ace353f-276a-4dbf-b5fe-9c9663b998dc&ctid=6fdbd08c-19b0-40cd-a505-20f5fc528bf5&reportPage=ReportSection4c23546aa83bea00ba62&pbi_source=appShareLink&portalSessionId=15ee41f4-9466-47c4-87bd-9aa50a0c4d37
